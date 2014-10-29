@@ -62,7 +62,7 @@
             this.btn_Ok.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btn_Ok.Location = new System.Drawing.Point(0, 0);
             this.btn_Ok.Name = "btn_Ok";
-            this.btn_Ok.Size = new System.Drawing.Size(292, 38);
+            this.btn_Ok.Size = new System.Drawing.Size(292, 58);
             this.btn_Ok.TabIndex = 1;
             this.btn_Ok.Text = "OK";
             this.btn_Ok.UseVisualStyleBackColor = false;
